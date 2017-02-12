@@ -3,3 +3,4 @@
 > This is a learning path I am taking for a fast and efficient learning process.
 
 ##Foundation
+* Machine Learning, Andrew Ng [Coursera] (https://www.coursera.org/learn/machine-learning#)
