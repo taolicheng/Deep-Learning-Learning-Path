@@ -9,3 +9,9 @@
 ### Courses
 * Machine Learning, Andrew Ng [[Coursera]] (https://www.coursera.org/learn/machine-learning#)
 * Neural Networks for Machine Learning, University of Toronto, Geoffrey Hinton[[Coursera]] (https://www.coursera.org/learn/neural-networks/home/info)
+
+### Tools
+* Scikit-learn: http://scikit-learn.org/stable/index.html
+* Tensorflow: https://www.tensorflow.org/
+
+### Simple Applications
