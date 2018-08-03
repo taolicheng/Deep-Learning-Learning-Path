@@ -1,14 +1,14 @@
 # Deep-Learning-Learning-Path
 
-> This is a learning path I am taking for a fast and efficient learning process.
 
-##Foundation
+## Foundation
 ### TextBook
 * [Deep Learning Book] (http://www.deeplearningbook.org/), MIT 
 
 ### Courses
 * Machine Learning, Andrew Ng [[Coursera]] (https://www.coursera.org/learn/machine-learning#)
 * Neural Networks for Machine Learning, University of Toronto, Geoffrey Hinton[[Coursera]] (https://www.coursera.org/learn/neural-networks/home/info)
+* [INFO8010 - Deep Learning, Gilles Louppe.](https://github.com/glouppe/info8010-deep-learning)
 
 ### Tools
 * Scikit-learn: http://scikit-learn.org/stable/index.html
