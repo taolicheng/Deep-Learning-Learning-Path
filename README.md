@@ -2,7 +2,8 @@
 
 
 ## Foundation
-### TextBook
+### TextBooks
+* [The Elements of Statistical Learning] (https://www.springer.com/us/book/9780387848570), Hastie, et al.
 * [Deep Learning Book] (http://www.deeplearningbook.org/), MIT 
 
 ### Courses
