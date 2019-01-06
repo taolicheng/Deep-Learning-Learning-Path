@@ -18,4 +18,4 @@
 
 ### Schools
 
-* [DLSS 2018](https://dlrlsummerschool.ca/) [[Lecture Videos]](http://videolectures.net/DLRLsummerschool2018_toronto/?fbclid=IwAR0YbWE2mfIlw3bXfHGR9rkj8UtCyMKAL1TTGHhsgREtvxZnx1aycObfzno)
+* [DLSS](https://dlrlsummerschool.ca/) [[2018 Lecture Videos]](http://videolectures.net/DLRLsummerschool2018_toronto/?fbclid=IwAR0YbWE2mfIlw3bXfHGR9rkj8UtCyMKAL1TTGHhsgREtvxZnx1aycObfzno)
