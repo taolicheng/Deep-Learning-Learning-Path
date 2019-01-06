@@ -16,4 +16,6 @@
 * Scikit-learn: http://scikit-learn.org/stable/index.html
 * Tensorflow: https://www.tensorflow.org/
 
-### Simple Applications
+### Schools
+
+* [DLSS 2018](https://dlrlsummerschool.ca/) [[Lecture Videos]](http://videolectures.net/DLRLsummerschool2018_toronto/?fbclid=IwAR0YbWE2mfIlw3bXfHGR9rkj8UtCyMKAL1TTGHhsgREtvxZnx1aycObfzno)
