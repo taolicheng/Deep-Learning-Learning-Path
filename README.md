@@ -6,6 +6,7 @@
 * [The Elements of Statistical Learning] (https://www.springer.com/us/book/9780387848570), Hastie, et al. [[pdf]](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 * [Deep Learning Book] (http://www.deeplearningbook.org/), MIT 
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/),  Stuart Russell and Peter Norvig.
+* [Information Theory, Inference, and Learning Algorithms](https://www.inference.org.uk/itprnn/book.pdf),  David J. C. MacKay, 2003.
 
 ### Courses
 * Machine Learning, Andrew Ng [[Coursera]] (https://www.coursera.org/learn/machine-learning#)
