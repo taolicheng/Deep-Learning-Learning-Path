@@ -22,3 +22,10 @@
 ### Schools
 
 * [DLSS](https://dlrlsummerschool.ca/) [[2018 Lecture Videos]](http://videolectures.net/DLRLsummerschool2018_toronto/?fbclid=IwAR0YbWE2mfIlw3bXfHGR9rkj8UtCyMKAL1TTGHhsgREtvxZnx1aycObfzno)
+
+## More Advanced Topics
+
+#### Bayesian Inference 
+
+* Variational Bayes and Beyond: Bayesian Inference for Big Data, Tamara Broderick.  https://www.youtube.com/watch?v=DYRK0-_K2UU
+* Variational Inference: A Review for Statisticians, David M. Blei, Alp Kucukelbir, Jon D. McAuliffe. https://arxiv.org/abs/1601.00670
