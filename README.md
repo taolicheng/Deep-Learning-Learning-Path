@@ -30,6 +30,9 @@
 * Variational Bayes and Beyond: Bayesian Inference for Big Data, Tamara Broderick.  https://www.youtube.com/watch?v=DYRK0-_K2UU
 * Variational Inference: A Review for Statisticians, David M. Blei, Alp Kucukelbir, Jon D. McAuliffe. https://arxiv.org/abs/1601.00670
 
+
+#### Normalizing Flows
+
 ## Journal Club
 [petit journal club](Petit-Journal-Club.md)
 
